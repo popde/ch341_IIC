@@ -1,0 +1,10 @@
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.csproj.AssemblyReference.cache
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.csproj.CoreCompileInputs.cache
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\bin\Debug\CH341T_I2C.exe.config
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\bin\Debug\CH341T_I2C.exe
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\bin\Debug\CH341T_I2C.pdb
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.exe
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.pdb
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.CH341_I2C.resources
+C:\Users\Huave2\Desktop\雨树\CH341AB资料包\反编译iicV4\CH341T_I2C\obj\Debug\CH341T_I2C.csproj.GenerateResource.cache
